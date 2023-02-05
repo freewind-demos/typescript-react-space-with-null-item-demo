@@ -9,3 +9,5 @@ npm start
 ```
 
 It will open page on browser automatically.
+
+![img.png](img.png)
